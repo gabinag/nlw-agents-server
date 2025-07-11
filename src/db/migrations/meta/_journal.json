@@ -15,6 +15,13 @@
       "when": 1752093209988,
       "tag": "0001_powerful_madame_masque",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752191780464,
+      "tag": "0002_vengeful_james_howlett",
+      "breakpoints": true
     }
   ]
 }
